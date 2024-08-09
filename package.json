@@ -1,0 +1,15 @@
+{
+    "name": "homebridge-spvpump",
+    "version": "1.0.0",
+    "description": "Contro bomba spv con variador",
+    "main": "index.js",
+    "author": "Hernn72",
+    "license": "MIT",
+    "keywords": [
+        "homebridge-plugin"
+    ],
+    "engines": {
+        "node": ">=14.17.0",
+        "homebridge": ">=1.3.0"
+    }
+}

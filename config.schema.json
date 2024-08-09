@@ -1,0 +1,16 @@
+{
+    "pluginAlias": "spvpump",
+    "pluginType": "accessory",
+    "singular": true,
+    "headerDisplay": "Mi Plugin",
+    "schema": {
+        "type": "object",
+        "properties": {
+            "name": {
+                "title": "Nombre",
+                "type": "string",
+                "required": true
+            }
+        }
+    }
+}
